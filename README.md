@@ -48,4 +48,4 @@ Este proyecto tiene como objetivo la automatización de pruebas para la creació
 
 ## Capturas de Pantalla
 
-![Swagger Petstore](Capturas.png.png)
+![Swagger Petstore](Capturas.png)
